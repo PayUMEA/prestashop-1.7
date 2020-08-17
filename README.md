@@ -3,7 +3,7 @@
 </p>
 
 # payu-mea-rpp-prestashop-v1.7
-PayU's updated plugin for PrestaShop v1.7.x.x.
+PayU plugin for PrestaShop v1.7.x.
 
 Please note that PHP SOAP extension is required for the plugin to work. Other requirements include running Apache 2+ with PHP 5.4+, if in doubt contact your hosting provider.
 
